@@ -1,4 +1,4 @@
-<h1 style = "align = center"> HTML - Hyper Text Markup Lanuguage </h1>
+<h1 style="text-align: center;"> HTML - Hyper Text Markup Lanuguage </h1>
 
 # Introduction
 
