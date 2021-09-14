@@ -58,6 +58,7 @@ The HTML element is everything from the start tag to the end tag:
 | `<br>` | _none_ | _none_ |
 
 | **Note:** Some HTML elements have no content (like the <br> element). These elements are called empty elements. Empty elements do not have an end tag! |
+| ---------------------------------------------------------------------------------------------- |
 
 ## Web Browsers
 
@@ -75,6 +76,8 @@ Below is a visualization of an HTML page structure:
         alt="HTMl page structure image">
 
 | **Note:** The content inside the <body> section (the white area above) will be displayed in a browser. The content inside the <title> element will be shown in the browser's title bar or in the page's tab. |
+| ---------------------------------------------------------------------------------------------- |
+
 
 ### HTML History
 
