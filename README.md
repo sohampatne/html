@@ -118,7 +118,7 @@ However, for learning HTML we recommend a simple text editor like Notepad (PC) o
  
 Follow the steps below to create your first web page with Notepad or TextEdit.
 
-### Step 1: Open Notepad (PC)
+## Step 1: Open Notepad (PC)
 
 **Windows 8 or later:**
 
@@ -128,7 +128,7 @@ Open the **Start Screen** (the window symbol at the bottom left on your screen).
 
 Open **Start > Programs > Accessories > Notepad**
 
-### Step 1: Open TextEdit (Mac)
+## Step 1: Open TextEdit (Mac)
 
 Open **Finder > Applications > TextEdit**
 
@@ -138,7 +138,7 @@ Then under "Open and Save", check the box that says "Display HTML files as HTML 
 
 **Then open a new document to place the code.**
 
-### Step 2: Write Some HTML
+## Step 2: Write Some HTML
 
 Write or copy the following HTML code into Notepad:
 
@@ -158,7 +158,7 @@ Write or copy the following HTML code into Notepad:
 <img src="https://www.w3schools.com/html/img_notepad.png"
         alt="Notepad Image">
 
-### Step 3: Save the HTML Page
+## Step 3: Save the HTML Page
 
 Save the file on your computer. Select **File > Save** as in the Notepad menu.
 
@@ -170,7 +170,7 @@ Name the file "**index.html**" and set the encoding to **UTF-8** (which is the p
 | **Tip:** You can use either .htm or .html as file extension. There is no difference, it is up to you. |
 | ----------------------------------------------------------------------------------------------------- |
 
-### Step 4: View the HTML Page in Your Browser
+## Step 4: View the HTML Page in Your Browser
 
 Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose "Open with").
 
