@@ -81,6 +81,7 @@ Below is a visualization of an HTML page structure:
 Since the early days of the World Wide Web, there have been many versions of HTML:
 
 | **Year** | **Version** |
+| ---- | -------------------------------------- |
 | 1989 | Tim Berners-Lee invented www |
 | 1991 | Tim Berners-Lee invented HTML |
 | 1993 | Dave Raggett drafted HTML+ |
