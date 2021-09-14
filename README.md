@@ -168,6 +168,7 @@ Name the file "**index.html**" and set the encoding to **UTF-8** (which is the p
         alt="Notepad Image">
 
 | **Tip:** You can use either .htm or .html as file extension. There is no difference, it is up to you. |
+| ----------------------------------------------------------------------------------------------------- |
 
 - ### Step 4: View the HTML Page in Your Browser
 
